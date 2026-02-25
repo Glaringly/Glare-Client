@@ -5,7 +5,7 @@
         if (!arguments[1]?.includes("s.blooket.com/rc"))
             return wfcall.apply(this, arguments);
     }
-    if (console.log("%c Glaringly's Blooket Hacks %c\n\tModified by Glaringly", "color: #cc0022; font-size: 3rem; text-shadow: 0 0 20px #cc0022, 0 0 40px rgba(204,0,34,0.5)", "color: #ff4422; font-size: 1rem"), console.log("%c\tgui.js", "color: #cc0022; font-size: 1rem"), console.log("%c\tStar the github repo!%c  https://github.com/Glaringly/Glare-Client", "color: #ff6666; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
+    if (console.log("%c Glaringly's Blooket Hacks %c\n\tModified by Glaringly", "color: #cc0022; font-size: 3rem; text-shadow: 0 0 20px #cc0022, 0 0 40px rgba(204,0,34,0.5)", "color: #ff4422; font-size: 1rem"), console.log("%c\tgui.js", "color: #cc0022; font-size: 1rem"), console.log("%c\tStar the github repo!%c https://github.com/Glaringly/Glare-Client", "color: #ff6666; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
         for (var e, t, a, o, r, i, n, s, e = document.createElement("iframe"), t = (document.body.appendChild(e), window.clearId = window.setInterval(() => {}, 0)); t--;)
             e.contentWindow.clearInterval.call(window, t);
         e.remove()
