@@ -38,7 +38,7 @@
 
 ## `// WHAT IS GLARE CLIENT`
 
-**Glare Client** is a **premium Blooket cheat GUI** built from the ground up by [Glaringly](https://github.com/Glaringly). It's not a script — it's a full client. Dark red neon interface. Buttery animations. Ripple effects. Scanlines. Corner decorations. Toast notifications. Every detail obsessed over.
+**Glare Client** is a **premium Blooket cheat GUI** built from the ground up by [Glaringly](https://github.com/Glaringly). It's not a script, it's a full client. Dark red neon interface. Buttery animations. Ripple effects. Scanlines. Corner decorations. Toast notifications. Every detail obsessed over.
 
 This is what a **#1 cheat GUI** looks like.
 
